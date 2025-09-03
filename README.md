@@ -1,11 +1,5 @@
-# Job Board App with Next.js & Prisma
+# Job Board App with Next.js, Prisma, PostgreSQL, and TailwindCSS
 
-<div align="center">
-
-   <h3 align="center">Job Board App built with Next.js, Prisma, PostgreSQL, and TailwindCSS</h3>
-  
-  <br />
-</div>
 
 ## 📋 Table of Contents
 
